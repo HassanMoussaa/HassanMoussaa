@@ -1,3 +1,6 @@
+![Header](./github-header-image.png)
+
+
 <h1 align="center">Hi 👋, I'm Hassan Moussa</h1>
 <h3 align="center">A dedicated and resilient full-stack web developer!</h3>
 
