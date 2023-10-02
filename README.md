@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Hassan Moussa</h1>
 <h3 align="center">A dedicated and resilient full-stack web developer!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanmoussaa" alt="hassanmoussaa" /></a> </p>
 
 - 🔭 I’m currently working on **PETRIX**
 
@@ -21,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanmoussaa&show_icons=true&locale=en&layout=compact" alt="hassanmoussaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanmoussaa&show_icons=true&locale=en" alt="hassanmoussaa" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanmoussaa" alt="hassanmoussaa" /></a> </p>
